@@ -1,2 +1,2 @@
 # Kattis
-My kattis solutions made using python3.
+My Kattis solutions made using python3.
